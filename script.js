@@ -9,10 +9,13 @@ async function generarPDF() {
 
   const piernaDer = document.getElementById("piernaDer").value;
   const piernaIzq = document.getElementById("piernaIzq").value;
+  const gluteo = document.getElementById("gluteo").value;
   const brazoDer = document.getElementById("brazoDer").value;
   const brazoIzq = document.getElementById("brazoIzq").value;
   const cintura = document.getElementById("cintura").value;
   const pecho = document.getElementById("pecho").value;
+  const cuello = document.getElementById("cuello").value;
+  const muñeca = document.getElementById("muñeca").value;
 
   if (!nombre || !edad || !peso || !altura) {
     alert("Por favor completa nombre, edad, peso y altura.");
@@ -56,10 +59,14 @@ async function generarPDF() {
   const datos = [
     [`Pierna derecha`, piernaDer],
     [`Pierna izquierda`, piernaIzq],
+    [`Gluteo`, gluteo],
     [`Brazo derecho`, brazoDer],
     [`Brazo izquierdo`, brazoIzq],
     [`Cintura`, cintura],
-    [`Pecho`, pecho]
+    [`Pecho`, pecho],
+    [`Cuello`, cuello],
+    [`Muñeca`, muñeca]
+    
   ];
 
   datos.forEach(([nombre, valor]) => {
@@ -71,7 +78,7 @@ async function generarPDF() {
 
   doc.setFontSize(10);
   doc.setTextColor(150);
-  doc.text("Generado por PowerGym © 2025", 10, 285);
+  doc.text("Generado por JuanGoyeneche © 2025", 10, 285);
 
   doc.save(`PowerGym_${nombre.replace(" ", "_")}.pdf`);
 }
@@ -111,7 +118,7 @@ function generarRutina() {
   // Rutina semanal
   doc.setTextColor(255, 215, 0);
   doc.setFontSize(14);
-  doc.text("RUTINA DE LUNES A VIERNES", 10, 60);
+  doc.text("RUTINA SUGERIDA DE LUNES A VIERNES", 10, 60);
 
   doc.setTextColor(0);
   doc.setFontSize(11);
@@ -248,7 +255,7 @@ function generarRutina() {
 
   doc.setFontSize(10);
   doc.setTextColor(150);
-  doc.text("Generado por PowerGym © 2025", 10, 285);
+  doc.text("Generado por JuanGoyeneche © 2025", 10, 285);
 
   doc.save(`Rutina_PowerGym_${nombre.replace(" ", "_")}.pdf`);
 }
