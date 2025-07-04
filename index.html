@@ -8,7 +8,10 @@
 </head>
 <body>
   <header>
+    <div class="logo-header">
+    <img src="Logo.png" alt="Logo PowerGym" />
     <h1>PowerGym</h1>
+  </div>
   </header>
 
   <main class="container">
@@ -18,11 +21,10 @@
       <input type="text" id="nombre" placeholder="Nombre completo" required />
       <input type="number" id="edad" placeholder="Edad" required />
       <select id="genero" required>
-  <option value="">-- Selecciona tu género --</option>
-  <option value="hombre">Hombre</option>
-  <option value="mujer">Mujer</option>
-</select>
-
+        <option value="">-- Selecciona tu género --</option>
+        <option value="hombre">Hombre</option>
+        <option value="mujer">Mujer</option>
+      </select>
     </section>
 
     <section class="card imc-inputs">
@@ -36,12 +38,12 @@
       <input type="number" id="piernaDer" placeholder="Pierna derecha (cm)" />
       <input type="number" id="piernaIzq" placeholder="Pierna izquierda (cm)" />
       <input type="number" id="gluteo" placeholder="Gluteo (cm)" />
-      <input type="number" id="cintura" placeholder="Cintura (cm)" />
       <input type="number" id="brazoDer" placeholder="Brazo derecho (cm)" />
       <input type="number" id="brazoIzq" placeholder="Brazo izquierdo (cm)" />
-      <input type="number" id="muñeca" placeholder="muñeca (cm)" />
+      <input type="number" id="cintura" placeholder="Cintura (cm)" />
       <input type="number" id="pecho" placeholder="Pecho (cm)" />
       <input type="number" id="cuello" placeholder="Cuello (cm)" />
+      <input type="number" id="muñeca" placeholder="muñeca (cm)" />
     </section>
 
     <section class="card imc">
@@ -63,6 +65,9 @@
     </section>
 
   </main>
+
+  <!-- Imagen oculta como marca de agua -->
+  <img id="marcaAgua" src="Logo.png" alt="Marca de Agua" style="display: none;" />
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <script src="script.js"></script>
