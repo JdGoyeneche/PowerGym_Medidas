@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PowerGym - Registro Corporal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>PowerGym</h1>
+  </header>
+
+  <main class="container">
+
+    <section class="card">
+      <h2>Datos Personales</h2>
+      <input type="text" id="nombre" placeholder="Nombre completo" required />
+      <input type="number" id="edad" placeholder="Edad" required />
+      <select id="genero" required>
+  <option value="">-- Selecciona tu género --</option>
+  <option value="hombre">Hombre</option>
+  <option value="mujer">Mujer</option>
+</select>
+
+    </section>
+
+    <section class="card imc-inputs">
+      <h2>Peso y Altura</h2>
+      <input type="number" id="peso" placeholder="Peso (kg)" step="0.1" required />
+      <input type="number" id="altura" placeholder="Altura (cm)" step="0.1" required />
+    </section>
+
+    <section class="card">
+      <h2>Medidas Corporales</h2>
+      <input type="number" id="piernaDer" placeholder="Pierna derecha (cm)" />
+      <input type="number" id="piernaIzq" placeholder="Pierna izquierda (cm)" />
+      <input type="number" id="brazoDer" placeholder="Brazo derecho (cm)" />
+      <input type="number" id="brazoIzq" placeholder="Brazo izquierdo (cm)" />
+      <input type="number" id="cintura" placeholder="Cintura (cm)" />
+      <input type="number" id="pecho" placeholder="Pecho (cm)" />
+    </section>
+
+    <section class="card imc">
+      <h2>Calculadora de IMC</h2>
+      <p>Usamos el peso y la altura que ingresaste para calcular tu IMC:</p>
+      <button onclick="generarPDF()">Calcular IMC y Descargar PDF</button>
+      <p id="resultadoIMC"></p>
+    </section>
+
+    <section class="card rutina">
+      <h2>Rutina Sugerida</h2>
+      <p>Selecciona tu objetivo y descarga una rutina personalizada basada en tu IMC:</p>
+      <select id="objetivo">
+        <option value="">-- Selecciona un objetivo --</option>
+        <option value="definir">Definir / Bajar grasa</option>
+        <option value="subir">Subir masa muscular</option>
+      </select>
+      <button onclick="generarRutina()">Descargar rutina personalizada</button>
+    </section>
+
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
