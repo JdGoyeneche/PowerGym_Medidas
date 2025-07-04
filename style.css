@@ -16,12 +16,12 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: left;
-  margin-left: 25px;
-  gap: 240px;
+  margin-left: 0.1px;
+  gap: 55px;
 }
 
 .logo-header img {
-  height: 100px;
+  height: 75px;
   width: auto;
 }
 
