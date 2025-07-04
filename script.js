@@ -10,12 +10,12 @@ async function generarPDF() {
   const piernaDer = document.getElementById("piernaDer").value;
   const piernaIzq = document.getElementById("piernaIzq").value;
   const gluteo = document.getElementById("gluteo").value;
+  const cintura = document.getElementById("cintura").value;
   const brazoDer = document.getElementById("brazoDer").value;
   const brazoIzq = document.getElementById("brazoIzq").value;
-  const cintura = document.getElementById("cintura").value;
+  const muñeca = document.getElementById("muñeca").value;
   const pecho = document.getElementById("pecho").value;
   const cuello = document.getElementById("cuello").value;
-  const muñeca = document.getElementById("muñeca").value;
 
   if (!nombre || !edad || !peso || !altura) {
     alert("Por favor completa nombre, edad, peso y altura.");
@@ -60,12 +60,12 @@ async function generarPDF() {
     [`Pierna derecha`, piernaDer],
     [`Pierna izquierda`, piernaIzq],
     [`Gluteo`, gluteo],
+    [`Cintura`, cintura],
     [`Brazo derecho`, brazoDer],
     [`Brazo izquierdo`, brazoIzq],
-    [`Cintura`, cintura],
+    [`Muñeca`, muñeca]
     [`Pecho`, pecho],
     [`Cuello`, cuello],
-    [`Muñeca`, muñeca]
     
   ];
 
