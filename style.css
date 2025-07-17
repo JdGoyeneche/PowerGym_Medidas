@@ -17,7 +17,7 @@ html, body {
   align-items: center;
   justify-content: left;
   margin-left: 0.1px;
-  gap: 45px;
+  gap: 55px;
 }
 
 .logo-header img {
@@ -106,4 +106,16 @@ button:hover {
   font-size: 20px;
   font-weight: bold;
   color: #FFD700;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  resize: vertical;
+  background-color: #8b8b8b;
+  color: #fff;
 }
