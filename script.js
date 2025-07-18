@@ -130,11 +130,11 @@ async function generarPDF() {
     finalY = 20;
   }
 
-  doc.setFontSize(13);
+  doc.setFontSize(11);
   doc.setTextColor(0);
   doc.text(
     "Si presenta alguna lesión, condición médica o complicación física, por favor comuníquese con su instructor.",
-    10,
+    13,
     finalY
   );
 
