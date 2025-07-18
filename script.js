@@ -4373,4 +4373,3 @@ async function generarRutina() {
 
   doc.save(`Rutina_PowerGym_${nombre.replace(" ", "_")}.pdf`);
 }
-
