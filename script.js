@@ -557,7 +557,7 @@ async function generarRutina() {
         "Press declinado (mancuernas o máquina) - 4x10",
         "Aperturas en peck deck - 4x12",
         "Fondos asistidos - 4x10",
-        "Patada en polea - 4x12",
+        "Extensión de tríceps con cuerda - 4x12",
         "Extensión de tríceps tumbado - 4x12",
         "Crunch abdominal - 3x25"
       ],
