@@ -217,6 +217,9 @@ async function generarRutina() {
   const imgPullOver = await convertirImagenABase64("pull-over.png");
   const imgFlexiones = await convertirImagenABase64("flexiones.png");
   const imgCopa = await convertirImagenABase64("copa.png");
+  const imgRemoBajoCerrado = await convertirImagenABase64("remo-bajo-cerrado.png");
+  const imgJalonEnPolea = await convertirImagenABase64("jalon en polea.png");
+  const imgFemoralaUnaPierna = await convertirImagenABase64("femoral a una pierna.png");
 
 
   const imagenesEjercicios = {
@@ -240,7 +243,7 @@ async function generarRutina() {
     "peso muerto": imgPesMue,
     "curl femoral": imgCurFem,
     "step up": imgSteUp,
-    "elevación de talones": imgEleTal,
+    "elevaciones de talones sentado": imgEleTal,
     "press militar": imgPreMil,
     "elevaciones laterales": imgEleLat,
     "elevaciones frontales": imgEleFron,
@@ -274,8 +277,11 @@ async function generarRutina() {
     "curl inclinado con mancuerna": imgCurlInclinadoConMancuerna,
     "peck deck": imgPeckDeck,
     "pull over": imgPullOver,
-    "Flexiones de pecho": imgFlexiones,
-    "Copa": imgCopa,
+    "flexiones de pecho": imgFlexiones,
+    "copa": imgCopa,
+    "remo bajo cerrado": imgRemoBajoCerrado,
+    "jalon en polea": imgJalonEnPolea,
+    "femoral a una pierna": imgFemoralaUnaPierna,
     
     
 
@@ -400,7 +406,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -455,7 +461,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -510,7 +516,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -567,7 +573,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -621,7 +627,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -679,7 +685,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -735,7 +741,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -789,7 +795,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -846,7 +852,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -901,7 +907,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -955,7 +961,7 @@ async function generarRutina() {
         "Flexiones de pecho al fallo - 4 series",
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
+        "Extensión de tríceps tumbado - 4x10",
         "plancha con toques de hombro - 4x20",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
@@ -987,13 +993,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1011,6 +1018,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1019,6 +1028,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1036,13 +1046,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1060,6 +1071,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1068,6 +1081,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1085,13 +1099,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1109,6 +1124,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1117,6 +1134,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1142,13 +1160,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1166,6 +1185,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1174,6 +1195,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1190,13 +1212,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1214,6 +1237,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1222,6 +1247,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1239,13 +1265,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1263,6 +1290,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1271,6 +1300,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1287,13 +1317,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1311,6 +1342,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1319,6 +1352,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1344,13 +1378,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo bajo cerrado - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1368,6 +1403,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1376,6 +1413,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
@@ -1392,13 +1430,14 @@ async function generarRutina() {
         
       ],
       "Martes": [
-        "Jalón al pecho - 4x10",
-        "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x10",
-        "curl predicador - 4x10",
-        "curl martillo - 4x10",
-        "Crunch abdominal - 4x10",
+        "Jalón al pecho - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Remo bajo cerrado - 4x15",
+        "Jalon en polea 4x15",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
         "Plancha - 4x40 segundos",
         "Mountain climbers - 4x40 segundos"
       ],
@@ -1416,6 +1455,8 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
+        "Copa - 4x10",
+        "Fondos asistidos con maquina - 4x10",
         "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
@@ -1424,6 +1465,7 @@ async function generarRutina() {
         "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
+        "Femoral a una pierna 4x10",
         "Peso muerto con barra - 4x10",
         "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
