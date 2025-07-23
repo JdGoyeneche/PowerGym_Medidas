@@ -269,6 +269,7 @@ async function generarRutina() {
     "patada en polea": imgPatadaEnPolea,
     "elevacion de gemelos": imgElevacionDeGemelosDePie,
     "curl inclinado con mancuerna": imgCurlInclinadoConMancuerna,
+    "peck deck": imgPeckDeck,
 
   };
 
@@ -353,96 +354,101 @@ async function generarRutina() {
 
     "hombre_definir_principiante_peso_medio": {
       "Lunes": [
-        "Press de pecho con mancuernas en banco plano - 3x12",
-        "Press banca con barra - 3x10",
-        "Aperturas en banco inclinado - 3x12",
-        "Fondos asistidos - 3x8",
-        "Extensión de tríceps con cuerda - 3x12",
-        "Burpees - 3x30 segundos"
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x10",
+        "Prensa inclinada - 4x10",
+        "Curl femoral - 4x10",
+        "extensión de cuádriceps 4x10",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
+        
       ],
       "Martes": [
-        "Jalón al pecho - 3x12",
-        "Remo con mancuerna - 3x10 c/u",
-        "Dominadas asistidas - 3x6–8",
-        "Curl de bíceps - 3x12",
-        "Face pull - 3x15",
-        "Crunch abdominal - 3x20",
-        "Plancha - 3x30 segundos"
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos"
       ],
       "Miercoles": [
-        "Sentadilla libre con barra - 3x10",
-        "Prensa inclinada - 3x12",
-        "Curl femoral - 3x12",
-        "Elevaciones de talones sentado - 4x20",
-        "Hip trust - 3x10",
-        "Crunch oblicuo - 3x20",
-        "Plancha con toques de hombro - 3x30 segundos"
+        "Press militar sentado - 4x10",
+        "Press Arnold - 4x10",
+        "Elevaciones laterales - 4x10",
+        "Elevaciones frontales - 4x10",
+        "trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
       ],
       "jueves": [
-        "Press militar sentado - 3x12",
-        "Press Arnold - 3x10",
-        "Elevaciones laterales - 3x15",
-        "Elevaciones frontales - 3x15",
-        "Mountain climbers - 3x40 segundos",
-        "Crunch abdominal - 3x20",
-        "Estiramientos guiados - 3x30 segundos"
+        "Press de pecho con mancuernas en banco plano - 4x10",
+        "Press banca con barra - 4x10",
+        "Aperturas en banco inclinado - 4x10",
+        "Fondos asistidos - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Zancadas con mancuernas - 3x10 c/u",
-        "Peso muerto con barra - 3x10",
-        "Remo con barra - 3x10",
-        "Patada de glúteo en cuadrupedia - 3x15",
-        "Marcha en el sitio - 3x1 minuto",
-        "Plancha - 3x40 segundos",
-        "Estiramientos guiados - 3x30 segundos"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
+        "Prensa inclinada - 4x10"
+        "Curl femoral 4x10",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x10",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
 
     "hombre_definir_principiante_sobrepeso": {
       "Lunes: Pierna completa": [
-        "Sentadilla libre con barra (priorizar técnica, sin carga) - 4x12",
-        "Extensión de cuádriceps - 4x12",
-        "Hack squat - 4x12",
-        "Zancadas con mancuernas (sin peso si hay dificultad) - 4x20",
-        "Peso muerto con barra (carga moderada) - 4x15",
-        "Marcha en el sitio - 3x1 minuto"
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x15",
+        "Prensa inclinada - 4x15",
+        "Curl femoral - 4x15",
+        "extensión de cuádriceps 4x15",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
       ],
-      "Martes: Pecho y tríceps": [
-        "Press banca con barra - 4x10",
-        "Press declinado (mancuernas o máquina) - 4x10",
-        "Aperturas en peck deck - 4x12",
-        "Fondos asistidos - 3x10",
-        "Patada en polea - 4x12",
-        "Extensión de tríceps tumbado - 4x12",
-        "Crunch abdominal - 3x20"
+      "Martes: Espalda y Biceps": [
+        "Jalón al pecho - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
+        "Plancha - 4x40 segundos"
       ],
       "Miercoles: Hombros y trapecios": [
-        "Press militar - 4x12",
-        "Press hombro en agarre diagonal - 4x12",
-        "Elevaciones laterales - 4x12",
-        "Elevaciones frontales - 4x12",
-        "Face pull - 4x15",
-        "Trapecios - 6x20",
-        "Mountain climbers - 3x30 segundos"
+        "Press militar sentado - 4x15",
+        "Press Arnold - 4x15",
+        "Elevaciones laterales - 4x15",
+        "Elevaciones frontales - 4x15",
+        "Trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
       ],
-      "jueves: Pierna posterior y gemelos": [
-        "Curl femoral - 4x12",
-        "Peso muerto con barra (estilo rumano) - 4x12",
-        "Prensa inclinada - 4x12",
-        "Elevación de gemelos - 4x20",
-        "Step up (sin carga si hay dificultad) - 3x12 c/u",
-        "Plancha - 3x30 segundos"
+      "jueves: Pecho y Triceps": [
+        "Press de pecho con mancuernas en banco plano - 4x15",
+        "Press banca con barra - 4x15",
+        "Aperturas en banco inclinado - 4x15",
+        "Fondos asistidos - 4x15",
+        "Extensión de tríceps con cuerda - 4x15",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
-      "Viernes: Espalda y bíceps": [
-        "Jalón al pecho - 4x12",
-        "Remo bajo - 4x12",
-        "Remo con mancuerna - 4x12",
-        "Curl de bíceps - 4x12",
-        "Curl martillo - 4x12",
-        "Curl predicador - 4x12",
-        "Curl inclinado con mancuerna - 4x12",
-        "Crunch oblicuo - 3x20"
+      "Viernes: Pierna": [
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x15"
+        "Prensa inclinada - 4x15"
+        "Curl femoral 4x15",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x15",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     }
     ,
@@ -497,96 +503,101 @@ async function generarRutina() {
 
 
     "hombre_definir_intermedio_peso_medio": {
-      "Lunes": [
-        "Press de pecho con mancuernas en banco plano - 4x12",
-        "Press banca con barra - 4x10",
-        "Aperturas en banco inclinado - 3x15",
-        "Fondos asistidos - 3x10",
-        "Extensión de tríceps con cuerda - 3x12",
-        "Burpees - 3x30 segundos"
+     "Lunes": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x10",
+        "Prensa inclinada - 4x10",
+        "Curl femoral - 4x10",
+        "extensión de cuádriceps 4x10",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
+        
       ],
       "Martes": [
-        "Jalón al pecho - 4x12",
-        "Remo con mancuerna - 3x12 c/u",
-        "Dominadas asistidas - 3x8",
-        "Curl de bíceps - 3x15",
-        "Face pull - 3x15",
-        "Crunch abdominal - 3x25",
-        "Plancha - 3x40 segundos"
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos"
       ],
       "Miercoles": [
-        "Sentadilla libre con barra - 4x10",
-        "Prensa inclinada - 4x12",
-        "Curl femoral - 3x15",
-        "Elevaciones de talones sentado - 4x20",
-        "Hip trust - 3x12",
-        "Crunch oblicuo - 3x20",
-        "Plancha con toques de hombro - 3x30 segundos"
+        "Press militar sentado - 4x10",
+        "Press Arnold - 4x10",
+        "Elevaciones laterales - 4x10",
+        "Elevaciones frontales - 4x10",
+        "trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
       ],
       "jueves": [
-        "Press militar sentado - 4x12",
-        "Press Arnold - 3x10",
-        "Elevaciones laterales - 3x15",
-        "Elevaciones frontales - 3x15",
-        "Mountain climbers - 3x40 segundos",
-        "Crunch abdominal - 3x25",
-        "Estiramientos guiados - 3x30 segundos"
+        "Press de pecho con mancuernas en banco plano - 4x10",
+        "Press banca con barra - 4x10",
+        "Aperturas en banco inclinado - 4x10",
+        "Fondos asistidos - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Zancadas con mancuernas - 3x12 c/u",
-        "Peso muerto con barra - 3x10",
-        "Remo con barra - 3x10",
-        "Patada de glúteo en cuadrupedia - 3x15",
-        "Marcha en el sitio - 3x1 minuto",
-        "Plancha - 3x40 segundos",
-        "Estiramientos guiados - 3x30 segundos"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
+        "Prensa inclinada - 4x10"
+        "Curl femoral 4x10",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x10",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
     "hombre_definir_intermedio_sobrepeso": {
-      "Lunes: Pierna completa": [
-        "Sentadilla libre con barra - 4x12",
-        "Extensión de cuádriceps - 4x12",
-        "Hack squat - 4x12",
-        "Zancadas con mancuernas - 4x20",
-        "Peso muerto con barra - 4x15",
-        "Marcha en el sitio - 3x1 minuto"
+       "Lunes: Pierna completa": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x15",
+        "Prensa inclinada - 4x15",
+        "Curl femoral - 4x15",
+        "extensión de cuádriceps 4x15",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
       ],
-      "Martes: Pecho y tríceps": [
-        "Press banca con barra - 4x10",
-        "Press declinado (mancuernas o máquina) - 4x10",
-        "Aperturas en peck deck - 4x12",
-        "Fondos asistidos - 4x10",
-        "Extensión de tríceps con cuerda - 4x12",
-        "Extensión de tríceps tumbado - 4x12",
-        "Crunch abdominal - 3x25"
+      "Martes: Espalda y Biceps": [
+        "Jalón al pecho - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
+        "Plancha - 4x40 segundos"
       ],
       "Miercoles: Hombros y trapecios": [
-        "Press militar - 4x12",
-        "Press hombro en agarre diagonal - 4x12",
+        "Press militar sentado - 4x15",
+        "Press Arnold - 4x15",
         "Elevaciones laterales - 4x15",
         "Elevaciones frontales - 4x15",
-        "Face pull - 4x15",
-        "Trapecios - 6x20",
-        "Mountain climbers - 3x40 segundos"
+        "Trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
       ],
-      "jueves: Pierna posterior y gemelos": [
-        "Curl femoral - 4x12",
-        "Peso muerto con barra (rumano, carga moderada) - 4x12",
-        "Prensa inclinada - 4x12",
-        "Elevación de gemelos - 4x20",
-        "Step up - 3x12 c/u",
-        "Plancha - 3x40 segundos"
+      "jueves: Pecho y Triceps": [
+        "Press de pecho con mancuernas en banco plano - 4x15",
+        "Press banca con barra - 4x15",
+        "Aperturas en banco inclinado - 4x15",
+        "Fondos asistidos - 4x15",
+        "Extensión de tríceps con cuerda - 4x15",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
-      "Viernes: Espalda y bíceps": [
-        "Jalón al pecho - 4x12",
-        "Remo bajo - 4x12",
-        "Remo con mancuerna - 4x12",
-        "Curl de bíceps - 4x12",
-        "Curl martillo - 4x12",
-        "Curl predicador - 4x12",
-        "Curl inclinado con mancuerna - 4x12",
-        "Crunch oblicuo - 3x25"
+      "Viernes: Pierna": [
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x15"
+        "Prensa inclinada - 4x15"
+        "Curl femoral 4x15",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x15",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
@@ -594,89 +605,103 @@ async function generarRutina() {
     //HOMBRE SUBIR
 
     "hombre_subir_principiante_bajo_peso": {
-      "Lunes: Pierna completa": [
-        "Sentadilla libre con barra (sin carga o barra sola) - 4x10",
-        "Extensión de cuádriceps - 4x12",
-        "Prensa inclinada - 4x12",
-        "Zancadas con mancuernas (sin peso si hay inestabilidad) - 3x12 c/u",
-        "Peso muerto con barra (técnica básica) - 4x12",
-        "Elevación de talones - 3x20"
+      "Lunes": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x10",
+        "Prensa inclinada - 4x10",
+        "Curl femoral - 4x10",
+        "extensión de cuádriceps 4x10",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
+        
       ],
-      "Martes: Pecho y tríceps": [
+      "Martes": [
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos"
+      ],
+      "Miercoles": [
+        "Press militar sentado - 4x10",
+        "Press Arnold - 4x10",
+        "Elevaciones laterales - 4x10",
+        "Elevaciones frontales - 4x10",
+        "trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
+      ],
+      "jueves": [
         "Press de pecho con mancuernas en banco plano - 4x10",
-        "Press de pecho con mancuernas en banco inclinado - 4x10",
-        "Aperturas en banco inclinado - 4x12",
-        "Fondos asistidos - 3x8",
-        "Extensión de tríceps con cuerda - 4x12",
-        "Crunch abdominal - 3x20"
+        "Press banca con barra - 4x10",
+        "Aperturas en banco inclinado - 4x10",
+        "Fondos asistidos - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
-      "Miercoles: Espalda y bíceps": [
-        "Jalón al pecho - 4x12",
-        "Remo bajo - 4x12",
-        "Remo con mancuerna - 3x10 c/u",
-        "Curl de bíceps - 4x12",
-        "Curl martillo - 3x12",
-        "Crunch oblicuo - 3x20"
-      ],
-      "jueves: Hombros y core": [
-        "Press militar - 4x10",
-        "Elevaciones laterales - 4x12",
-        "Elevaciones frontales - 3x12",
-        "Face pull - 3x15",
-        "Plancha con toques de hombro - 3x30 segundos",
-        "Crunch abdominal - 3x25"
-      ],
-      "Viernes: Pierna glúteos y estabilidad": [
-        "Hack squat - 4x12",
-        "Hip trust - 4x12",
-        "Step up - 3x12 c/u",
-        "Peso muerto - 4x12",
-        "Patada de glúteo en cuadrupedia - 3x15",
-        "Marcha en el sitio - 3x1 minuto"
+      "Viernes": [
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
+        "Prensa inclinada - 4x10"
+        "Curl femoral 4x10",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x10",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
 
     "hombre_subir_principiante_peso_medio": {
-      "Lunes: Pierna completa": [
-        "Sentadilla libre con barra - 4x10",
-        "Extensión de cuádriceps - 4x12",
-        "Hack squat - 4x12",
-        "Zancadas con mancuernas - 3x12 c/u",
-        "Peso muerto con barra - 4x12",
-        "Elevación de talones - 3x20"
+      "Lunes": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x10",
+        "Prensa inclinada - 4x10",
+        "Curl femoral - 4x10",
+        "extensión de cuádriceps 4x10",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
+        
       ],
-      "Martes: Pecho y tríceps": [
+      "Martes": [
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos"
+      ],
+      "Miercoles": [
+        "Press militar sentado - 4x10",
+        "Press Arnold - 4x10",
+        "Elevaciones laterales - 4x10",
+        "Elevaciones frontales - 4x10",
+        "trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
+      ],
+      "jueves": [
+        "Press de pecho con mancuernas en banco plano - 4x10",
         "Press banca con barra - 4x10",
-        "Press de pecho con mancuernas en banco inclinado - 4x10",
-        "Aperturas en banco inclinado - 4x12",
-        "Fondos asistidos - 3x10",
-        "Extensión de tríceps con cuerda - 4x12",
-        "Crunch abdominal - 3x25"
+        "Aperturas en banco inclinado - 4x10",
+        "Fondos asistidos - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
-      "Miercoles: Espalda y bíceps": [
-        "Jalón al pecho - 4x12",
-        "Remo con mancuerna - 4x12",
-        "Remo bajo - 4x12",
-        "Curl de bíceps - 4x12",
-        "Curl martillo - 4x12",
-        "Crunch oblicuo - 3x25"
-      ],
-      "jueves: Hombros y core": [
-        "Press militar - 4x12",
-        "Elevaciones laterales - 4x15",
-        "Elevaciones frontales - 4x12",
-        "Face pull - 4x15",
-        "Plancha con toques de hombro - 3x30 segundos",
-        "Crunch abdominal - 3x30"
-      ],
-      "Viernes: Pierna posterior y glúteo": [
-        "Curl femoral - 4x12",
-        "Hip trust - 4x12",
-        "Step up - 3x12 c/u",
-        "Peso muerto - 4x12",
-        "Patada de glúteo en cuadrupedia - 3x15",
-        "Marcha en el sitio - 3x1 minuto"
+      "Viernes": [
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
+        "Prensa inclinada - 4x10"
+        "Curl femoral 4x10",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x10",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
@@ -730,97 +755,102 @@ async function generarRutina() {
 
 
     "hombre_subir_intermedio_bajo_peso": {
-      "Lunes: Pierna fuerza e hipertrofia": [
-        "Sentadilla libre con barra - 4x10",
-        "Extensión de cuádriceps - 4x12",
-        "Prensa inclinada - 4x12",
-        "Zancadas con mancuernas - 3x12 c/u",
-        "Peso muerto con barra - 4x12",
-        "Elevación de talones - 4x20"
+      "Lunes": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x10",
+        "Prensa inclinada - 4x10",
+        "Curl femoral - 4x10",
+        "extensión de cuádriceps 4x10",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
+        
       ],
-      "Martes: Pecho y tríceps": [
-        "Press banca con barra - 4x10",
-        "Press de pecho con mancuernas en banco inclinado - 4x10",
-        "Aperturas en banco inclinado - 4x12",
-        "Press declinado (mancuernas o máquina) - 4x10",
-        "Fondos asistidos - 3x12",
-        "Extensión de tríceps con cuerda - 4x12",
-        "Crunch abdominal - 3x30"
+      "Martes": [
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos"
       ],
-      "Miercoles: Espalda y bíceps": [
-        "Jalón al pecho - 4x12",
-        "Remo bajo - 4x12",
-        "Remo con barra - 4x10",
-        "Curl de bíceps - 4x12",
-        "Curl inclinado con mancuerna - 4x10",
-        "Curl martillo - 4x12",
-        "Crunch oblicuo - 3x30"
-      ],
-      "jueves: Hombros y core": [
-        "Press militar - 4x12",
-        "Elevaciones laterales - 4x15",
-        "Elevaciones frontales - 4x12",
+      "Miercoles": [
+        "Press militar sentado - 4x10",
         "Press Arnold - 4x10",
-        "Face pull - 4x15",
-        "Plancha con toques de hombro - 3x40 segundos",
-        "Crunch abdominal - 3x30"
+        "Elevaciones laterales - 4x10",
+        "Elevaciones frontales - 4x10",
+        "trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
       ],
-      "Viernes: Pierna posterior y glúteo": [
-        "Curl femoral - 4x12",
-        "Hack squat - 4x12",
-        "Hip trust - 4x12",
-        "Step up - 3x12 c/u",
-        "Peso muerto - 4x12",
-        "Patada de glúteo en cuadrupedia - 3x15",
-        "Marcha en el sitio - 3x1 minuto"
+      "jueves": [
+        "Press de pecho con mancuernas en banco plano - 4x10",
+        "Press banca con barra - 4x10",
+        "Aperturas en banco inclinado - 4x10",
+        "Fondos asistidos - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
+      ],
+      "Viernes": [
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
+        "Prensa inclinada - 4x10"
+        "Curl femoral 4x10",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x10",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
 
     "hombre_subir_intermedio_peso_medio": {
-      "Lunes: Pierna completa": [
-        "Sentadilla libre con barra - 4x10",
-        "Prensa inclinada - 4x12",
-        "Extensión de cuádriceps - 4x12",
-        "Zancadas con mancuernas - 3x12 c/u",
-        "Peso muerto con barra - 4x12",
-        "Elevación de talones - 4x20"
+     "Lunes: Pierna completa": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x15",
+        "Prensa inclinada - 4x15",
+        "Curl femoral - 4x15",
+        "extensión de cuádriceps 4x15",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
       ],
-      "Martes: Pecho y tríceps": [
-        "Press banca con barra - 4x10",
-        "Press declinado (mancuernas o máquina) - 4x10",
-        "Press de pecho con mancuernas en banco inclinado - 4x10",
-        "Aperturas en banco inclinado - 4x12",
-        "Fondos asistidos - 3x12",
-        "Extensión de tríceps con cuerda - 4x12",
-        "Crunch abdominal - 3x30"
+      "Martes: Espalda y Biceps": [
+        "Jalón al pecho - 4x15",
+        "Remo con mancuerna o hammer bajo - 4x15 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x15",
+        "curl predicador - 4x15",
+        "curl martillo - 4x15",
+        "Crunch abdominal - 4x15",
+        "Plancha - 4x40 segundos"
       ],
-      "Miercoles: Espalda y bíceps": [
-        "Jalón al pecho - 4x12",
-        "Remo con barra - 4x12",
-        "Remo con mancuerna - 4x12",
-        "Curl de bíceps - 4x12",
-        "Curl inclinado con mancuerna - 4x10",
-        "Curl martillo - 4x12",
-        "Crunch oblicuo - 3x30"
-      ],
-      "jueves: Hombros y core": [
-        "Press militar - 4x12",
+      "Miercoles: Hombros y trapecios": [
+        "Press militar sentado - 4x15",
+        "Press Arnold - 4x15",
         "Elevaciones laterales - 4x15",
-        "Elevaciones frontales - 4x12",
-        "Press Arnold - 4x10",
-        "Press hombro en agarre diagonal - 4x10",
-        "Face pull - 4x15",
-        "Plancha con toques de hombro - 3x40 segundos"
+        "Elevaciones frontales - 4x15",
+        "Trapecios - 6x15"
+        "Mountain climbers - 4x40 segundos",
+        "Crunch abdominal - 4x20",
+        "Estiramientos guiados - 4x30 segundos"
       ],
-      "Viernes: Pierna posterior y glúteo": [
-        "Hack squat - 4x12",
-        "Curl femoral - 4x12",
-        "Hip trust - 4x12",
-        "Step up - 3x12 c/u",
-        "Peso muerto - 4x12",
-        "Patada de glúteo en cuadrupedia - 3x15",
-        "Marcha en el sitio - 3x1 minuto"
+      "jueves: Pecho y Triceps": [
+        "Press de pecho con mancuernas en banco plano - 4x15",
+        "Press banca con barra - 4x15",
+        "Aperturas en banco inclinado - 4x15",
+        "Fondos asistidos - 4x15",
+        "Extensión de tríceps con cuerda - 4x15",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
+      ],
+      "Viernes: Pierna": [
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x15"
+        "Prensa inclinada - 4x15"
+        "Curl femoral 4x15",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x15",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
@@ -878,46 +908,50 @@ async function generarRutina() {
     //MUJERES RUTINA
 
     "mujer_definir_principiante_bajo_peso": {
-      "Lunes": [
-        "Sentadilla libre con barra - 3x10",
-        "Prensa inclinada - 3x12",
-        "Hip trust - 3x10",
-        "Elevaciones de talones sentado - 3x20",
-        "Abducción de cadera con banda - 3x20",
-        "Crunch abdominal - 3x20",
-        "Plancha - 3x30 segundos"
+     "Lunes": [
+        "Sentadilla libre con barra o variacion zumo(principiantes) - 4x10",
+        "Prensa inclinada - 4x10",
+        "Curl femoral - 4x10",
+        "extensión de cuádriceps 4x10",
+        "zancadas con mancuernas 4x20 pasos",
+        "Elevaciones de talones sentado - 6x20",
+        
       ],
       "Martes": [
-        "Jalón al pecho - 3x12",
-        "Remo con mancuerna - 3x10 c/u",
-        "Press militar sentado - 3x12",
-        "Elevaciones laterales - 3x15",
-        "Crunch oblicuo - 3x20",
-        "Plancha con toques de hombro - 3x30 segundos"
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Dominadas asistidas - 4 al fallo",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos"
       ],
       "Miercoles": [
-        "Zancadas con mancuernas - 3x10 c/u",
-        "Extensión de cuádriceps - 3x12",
-        "Hip trust - 3x10",
-        "Abducción de cadera en máquina - 3x20",
-        "Crunch abdominal - 3x20",
-        "Estiramientos guiados - 3x30 segundos"
+        "Sentadilla sumo - 4x10",
+        "Sentadilla búlgara con peso - 4x10",
+        "Abducción de cadera en máquina - 4x10",
+        "Hip trust maquina o libre - 4x15",
+        "Patada en polea o en maquina - 4x12",
+        "Peso muerto con barra o mancuerna - 6x15"
       ],
       "jueves": [
-        "Face pull - 3x15",
-        "Press Arnold - 3x10",
-        "Elevaciones frontales - 3x15",
-        "Dominadas asistidas - 3x6",
-        "Marcha en el sitio - 3x1 minuto",
-        "Plancha - 3x30 segundos"
+        "Peck deck - 4x10",
+        "Press banca con mancuerna - 4x10",
+        "Press declinado - 4x10",
+        "Fondos asistidos - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+        "plancha con toques de hombro - 4x20"
+        "plancha - 4x40"
+        "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra - 3x10",
-        "Curl femoral - 3x12",
-        "Hip trust - 3x10",
-        "Step up - 3x10 c/u",
-        "Crunch abdominal - 3x20",
-        "Estiramientos guiados - 3x30 segundos"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
+        "Prensa inclinada - 4x10"
+        "Curl femoral 4x10",
+        "Hip trust 4x15",
+        "Peso muerto con barra - 4x10",
+        "Elevacion de gemelos prensa ,mancuerna o smith 6x15"
       ]
     },
 
