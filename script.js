@@ -214,6 +214,7 @@ async function generarRutina() {
   const imgPatadaEnPolea = await convertirImagenABase64("patada en polea.png");
   const imgElevacionDeGemelosDePie = await convertirImagenABase64("elevacion de gemelos de pie.png");
   const imgCurlInclinadoConMancuerna = await convertirImagenABase64("curl inclinado con mancuerna.png");
+  const imgPullOver = await convertirImagenABase64("pull-over.png");
 
 
   const imagenesEjercicios = {
@@ -270,6 +271,8 @@ async function generarRutina() {
     "elevacion de gemelos": imgElevacionDeGemelosDePie,
     "curl inclinado con mancuerna": imgCurlInclinadoConMancuerna,
     "peck deck": imgPeckDeck,
+    "pull over": imgPullOver,
+    
 
   };
 
@@ -384,8 +387,10 @@ async function generarRutina() {
       ],
       "jueves": [
         "Press de pecho con mancuernas en banco plano - 4x10",
-        "Press banca con barra - 4x10",
-        "Aperturas en banco inclinado - 4x10",
+        "Press de pecho con mancuernas en banco inclinado o mancuerna - 4x10",
+        "Peck deck - 4x10",
+        "Pull over - 4x10",
+        
         "Fondos asistidos - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "plancha con toques de hombro - 4x20"
@@ -939,9 +944,9 @@ async function generarRutina() {
         "Peck deck - 4x10",
         "Press banca con mancuerna - 4x10",
         "Press declinado - 4x10",
-        "Fondos asistidos - 4x10",
-        "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
+        "Pull over - 4x10",
+        "Extensión de tríceps con cuerda - 4x15",
+        
         "plancha - 4x40"
         "crunch abdominal - 4x20"
       ],
