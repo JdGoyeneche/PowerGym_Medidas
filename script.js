@@ -215,6 +215,7 @@ async function generarRutina() {
   const imgElevacionDeGemelosDePie = await convertirImagenABase64("elevacion de gemelos de pie.png");
   const imgCurlInclinadoConMancuerna = await convertirImagenABase64("curl inclinado con mancuerna.png");
   const imgPullOver = await convertirImagenABase64("pull-over.png");
+  const imgFlexiones = await convertirImagenABase64("flexiones.png");
 
 
   const imagenesEjercicios = {
@@ -272,6 +273,8 @@ async function generarRutina() {
     "curl inclinado con mancuerna": imgCurlInclinadoConMancuerna,
     "peck deck": imgPeckDeck,
     "pull over": imgPullOver,
+    "Flexiones de pecho": imgFlexiones,
+    
     
 
   };
@@ -390,7 +393,7 @@ async function generarRutina() {
         "Press de pecho con mancuernas en banco inclinado o mancuerna - 4x10",
         "Peck deck - 4x10",
         "Pull over - 4x10",
-        
+        "Flexiones de pecho al fallo - 4 series",
         "Fondos asistidos - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "plancha con toques de hombro - 4x20"
