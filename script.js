@@ -385,7 +385,7 @@ async function generarRutina() {
         "Press Arnold - 4x10",
         "Elevaciones laterales - 4x10",
         "Elevaciones frontales - 4x10",
-        "trapecios - 6x15"
+        "trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -399,13 +399,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -438,7 +438,7 @@ async function generarRutina() {
         "Press Arnold - 4x15",
         "Elevaciones laterales - 4x15",
         "Elevaciones frontales - 4x15",
-        "Trapecios - 6x15"
+        "Trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -452,13 +452,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes: Pierna": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x15"
-        "Prensa inclinada - 4x15"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x15",
+        "Prensa inclinada - 4x15",
         "Curl femoral 4x15",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x15",
@@ -504,8 +504,8 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
@@ -545,7 +545,7 @@ async function generarRutina() {
         "Press Arnold - 4x10",
         "Elevaciones laterales - 4x10",
         "Elevaciones frontales - 4x10",
-        "trapecios - 6x15"
+        "trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -559,13 +559,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -597,7 +597,7 @@ async function generarRutina() {
         "Press Arnold - 4x15",
         "Elevaciones laterales - 4x15",
         "Elevaciones frontales - 4x15",
-        "Trapecios - 6x15"
+        "Trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -611,13 +611,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes: Pierna": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x15"
-        "Prensa inclinada - 4x15"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x15",
+        "Prensa inclinada - 4x15",
         "Curl femoral 4x15",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x15",
@@ -653,7 +653,7 @@ async function generarRutina() {
         "Press Arnold - 4x10",
         "Elevaciones laterales - 4x10",
         "Elevaciones frontales - 4x10",
-        "trapecios - 6x15"
+        "trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -667,13 +667,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -707,7 +707,7 @@ async function generarRutina() {
         "Press Arnold - 4x10",
         "Elevaciones laterales - 4x10",
         "Elevaciones frontales - 4x10",
-        "trapecios - 6x15"
+        "trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -721,13 +721,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -772,8 +772,8 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
@@ -813,7 +813,7 @@ async function generarRutina() {
         "Press Arnold - 4x10",
         "Elevaciones laterales - 4x10",
         "Elevaciones frontales - 4x10",
-        "trapecios - 6x15"
+        "trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -827,13 +827,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -866,7 +866,7 @@ async function generarRutina() {
         "Press Arnold - 4x15",
         "Elevaciones laterales - 4x15",
         "Elevaciones frontales - 4x15",
-        "Trapecios - 6x15"
+        "Trapecios - 6x15",
         "Mountain climbers - 4x40 segundos",
         "Crunch abdominal - 4x20",
         "Estiramientos guiados - 4x30 segundos"
@@ -880,13 +880,13 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes: Pierna": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x15"
-        "Prensa inclinada - 4x15"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x15",
+        "Prensa inclinada - 4x15",
         "Curl femoral 4x15",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x15",
@@ -931,8 +931,8 @@ async function generarRutina() {
         "Copa - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
         "Extensión de tríceps con cuerda - 4x10",
-        "plancha con toques de hombro - 4x20"
-        "plancha - 4x40"
+        "plancha con toques de hombro - 4x20",
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
@@ -985,12 +985,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1033,12 +1033,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1081,12 +1081,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1137,12 +1137,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1184,12 +1184,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1232,12 +1232,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1279,12 +1279,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1335,12 +1335,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
@@ -1382,12 +1382,12 @@ async function generarRutina() {
         "Press declinado - 4x10",
         "Pull over - 4x10",
         "Extensión de tríceps con cuerda - 4x15",
-        "plancha - 4x40"
+        "plancha - 4x40",
         "crunch abdominal - 4x20"
       ],
       "Viernes": [
-        "Sentadilla libre con barra variacion zumo(principiantes) 4x10"
-        "Prensa inclinada - 4x10"
+        "Sentadilla libre con barra variacion zumo(principiantes) 4x10",
+        "Prensa inclinada - 4x10",
         "Curl femoral 4x10",
         "Hip trust 4x15",
         "Peso muerto con barra - 4x10",
