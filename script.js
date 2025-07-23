@@ -371,14 +371,16 @@ async function generarRutina() {
         
       ],
       "Martes": [
+        "Dominadas asistidas - 4 al fallo",
         "Jalón al pecho - 4x10",
         "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
+        "Remo con barra - 4x15",
         "Curl de bíceps - 4x10",
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Press militar sentado - 4x10",
@@ -424,14 +426,16 @@ async function generarRutina() {
         "Elevaciones de talones sentado - 6x20",
       ],
       "Martes: Espalda y Biceps": [
-        "Jalón al pecho - 4x15",
-        "Remo con mancuerna o hammer bajo - 4x15 c/u",
         "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x15",
-        "curl predicador - 4x15",
-        "curl martillo - 4x15",
-        "Crunch abdominal - 4x15",
-        "Plancha - 4x40 segundos"
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Remo con barra - 4x15",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles: Hombros y trapecios": [
         "Press militar sentado - 4x15",
@@ -478,13 +482,16 @@ async function generarRutina() {
         "Burpees - 3x20 segundos"
       ],
       "Martes": [
-        "Jalón al pecho - 4x12",
-        "Remo con mancuerna - 4x10 c/u",
-        "Dominadas asistidas - 3x8–10",
-        "Curl de bíceps - 3x15",
-        "Face pull - 3x15",
-        "Crunch abdominal - 3x25",
-        "Plancha - 3x30 segundos"
+        "Dominadas asistidas - 4 al fallo",
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Remo con barra - 4x15",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla libre con barra - 4x10",
@@ -531,14 +538,16 @@ async function generarRutina() {
         
       ],
       "Martes": [
+        "Dominadas asistidas - 4 al fallo",
         "Jalón al pecho - 4x10",
         "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
+        "Remo con barra - 4x15",
         "Curl de bíceps - 4x10",
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Press militar sentado - 4x10",
@@ -583,14 +592,16 @@ async function generarRutina() {
         "Elevaciones de talones sentado - 6x20",
       ],
       "Martes: Espalda y Biceps": [
-        "Jalón al pecho - 4x15",
-        "Remo con mancuerna o hammer bajo - 4x15 c/u",
         "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x15",
-        "curl predicador - 4x15",
-        "curl martillo - 4x15",
-        "Crunch abdominal - 4x15",
-        "Plancha - 4x40 segundos"
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Remo con barra - 4x15",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles: Hombros y trapecios": [
         "Press militar sentado - 4x15",
@@ -639,14 +650,16 @@ async function generarRutina() {
         
       ],
       "Martes": [
+        "Dominadas asistidas - 4 al fallo",
         "Jalón al pecho - 4x10",
         "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
+        "Remo con barra - 4x15",
         "Curl de bíceps - 4x10",
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Press militar sentado - 4x10",
@@ -693,14 +706,16 @@ async function generarRutina() {
         
       ],
       "Martes": [
+        "Dominadas asistidas - 4 al fallo",
         "Jalón al pecho - 4x10",
         "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
+        "Remo con barra - 4x15",
         "Curl de bíceps - 4x10",
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Press militar sentado - 4x10",
@@ -746,13 +761,16 @@ async function generarRutina() {
         "Marcha en el sitio - 3x30 segundos"
       ],
       "Martes": [
-        "Jalón al pecho - 3x12",
-        "Remo con mancuerna - 3x10 c/u",
-        "Dominadas asistidas - 3x6–8",
-        "Curl de bíceps - 3x12",
-        "Face pull - 3x15",
-        "Crunch abdominal - 3x20",
-        "Plancha - 3x30 segundos"
+        "Dominadas asistidas - 4 al fallo",
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Remo con barra - 4x15",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla libre con barra - 3x10",
@@ -799,14 +817,16 @@ async function generarRutina() {
         
       ],
       "Martes": [
+        "Dominadas asistidas - 4 al fallo",
         "Jalón al pecho - 4x10",
         "Remo con mancuerna o hammer bajo - 4x10 c/u",
-        "Dominadas asistidas - 4 al fallo",
+        "Remo con barra - 4x15",
         "Curl de bíceps - 4x10",
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Press militar sentado - 4x10",
@@ -852,14 +872,16 @@ async function generarRutina() {
         "Elevaciones de talones sentado - 6x20",
       ],
       "Martes: Espalda y Biceps": [
-        "Jalón al pecho - 4x15",
-        "Remo con mancuerna o hammer bajo - 4x15 c/u",
         "Dominadas asistidas - 4 al fallo",
-        "Curl de bíceps - 4x15",
-        "curl predicador - 4x15",
-        "curl martillo - 4x15",
-        "Crunch abdominal - 4x15",
-        "Plancha - 4x40 segundos"
+        "Jalón al pecho - 4x10",
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Remo con barra - 4x15",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles: Hombros y trapecios": [
         "Press militar sentado - 4x15",
@@ -905,13 +927,16 @@ async function generarRutina() {
         "Marcha en el sitio - 3x45 segundos"
       ],
       "Martes": [
+        "Dominadas asistidas - 4 al fallo",
         "Jalón al pecho - 4x10",
-        "Remo con mancuerna - 3x10 c/u",
-        "Dominadas asistidas - 3x6–8",
-        "Curl de bíceps - 3x12",
-        "Face pull - 3x15",
-        "Crunch abdominal - 3x20",
-        "Plancha - 3x40 segundos"
+        "Remo con mancuerna o hammer bajo - 4x10 c/u",
+        "Remo con barra - 4x15",
+        "Curl de bíceps - 4x10",
+        "curl predicador - 4x10",
+        "curl martillo - 4x10",
+        "Crunch abdominal - 4x10",
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla libre con barra - 4x10",
@@ -969,7 +994,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1017,7 +1043,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1065,7 +1092,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1121,7 +1149,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1168,7 +1197,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1216,7 +1246,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1263,7 +1294,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1319,7 +1351,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
@@ -1366,7 +1399,8 @@ async function generarRutina() {
         "curl predicador - 4x10",
         "curl martillo - 4x10",
         "Crunch abdominal - 4x10",
-        "Plancha - 4x40 segundos"
+        "Plancha - 4x40 segundos",
+        "Mountain climbers - 4x40 segundos"
       ],
       "Miercoles": [
         "Sentadilla sumo - 4x10",
