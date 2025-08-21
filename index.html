@@ -36,6 +36,8 @@
 
     <section class="card">
       <h2>Medidas Corporales</h2>
+      <input type="number" id="pantorrillaDer" placeholder="Pantorrilla derecha (cm)" />
+      <input type="number" id="pantorrillaIzq" placeholder="Pantorrilla izquierda (cm)" />
       <input type="number" id="piernaDer" placeholder="Pierna derecha (cm)" />
       <input type="number" id="piernaIzq" placeholder="Pierna izquierda (cm)" />
       <input type="number" id="gluteo" placeholder="Gluteo (cm)" />
@@ -59,25 +61,33 @@
       <p>Selecciona tu objetivo, género y nivel de experiencia para obtener una rutina personalizada:</p>
       <select id="objetivo">
         <option value="">-- Selecciona un objetivo --</option>
+        <option value="recomponer">Recomposicion</option>
         <option value="definir">Definir / Bajar grasa</option>
+        <option value="mantener">Mantenerse</option>
         <option value="subir">Subir masa muscular</option>
       </select>
       <select id="nivel">
         <option value="">-- Selecciona tu nivel --</option>
         <option value="principiante">Principiante</option>
         <option value="intermedio">Intermedio</option>
+        <option value="avanzado">Avanzado</option>
+        <option value="futbolista">Futbolista</option>
       </select>
       <button onclick="generarRutina()">Descargar rutina personalizada</button>
+      <button onclick="generarDieta()">Descargar plan nutricional</button>
     </section>
   </main>
 
   <img id="marcaAgua" src="Logo.png" alt="Marca de Agua" style="display: none;" />
 
-  
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.25/jspdf.plugin.autotable.min.js"></script>
 
   <script src="script.js"></script>
+  <script src="valoracion.js"></script>
+<script src="rutina.js"></script>
+<script src="dieta.js"></script>
 </body>
 
 </html>
