@@ -861,7 +861,110 @@ async function generarRutina() {
         ]
       },
   
-  
+  "hombre_subir_personalizado_peso_medio": {
+      "Lunes": [
+        "Press de pecho con mancuernas en banco plano - 4x12",
+        "Press de pecho con mancuernas en banco inclinado (mancuerna/banco o maquina) - 4x12",
+        "Aperturas en banco inclinado - 3x12",
+        "Peck deck - 4x15",
+        "Press militar sentado - 4x12",
+        "Elevaciones laterales - 4x12",
+        "Elevaciones frontales - 4x12",
+        "Extensión de tríceps con cuerda - 3x12",
+        "Copa - 4x12",
+      ],
+      "Martes": [
+        "Hack squat - 4x12",
+        "Prensa inclinada - 4x12",
+        "Extensión de cuádriceps - 4x12",
+        "Zancadas con mancuernas - 4x12",
+        "Hip trust - 4x12",
+        "sentadilla sumo - 4x20",
+        "Elevaciones de talones sentado - 4x20",
+      ],
+      "Miercoles": [
+        "Jalón al pecho - 4x12",
+        "Remo bajo cerrado 4x12",
+        "Remo con mancuerna o hammer bajo - 4x12",
+        "Jalon en polea - 4x15",
+        "Curl de bíceps - 4x12",
+        "curl predicador - 4x15",
+        "curl martillo - 4x12",
+        "Crunch abdominal - 4x20",
+        "Plancha - 4x1 minuto",
+        "Crunch oblicuo - 3x20",
+      ],
+      "jueves": [
+        "Press militar sentado - 4x12",
+        "Elevaciones laterales - 4x12",
+        "Elevaciones frontales - 4x12",
+        "Face pull - 4x15",
+        "Trapecios - 4x20",
+        "Copa - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+      ],
+      "Viernes": [
+        "Peso muerto con barra - 4x12",
+        "Sentadilla búlgara con peso (Mancuernas)",
+        "Hip trust - 4x12",
+        "Sentadilla sumo - 4x20",
+        "Curl femoral 4x12",
+        "Abducción de cadera en máquina 4x20"
+      ]
+    },
+
+
+    "hombre_definir_personalizado_sobrepeso": {
+      "Lunes": [
+        "Press de pecho con mancuernas en banco plano - 4x12",
+        "Press de pecho con mancuernas en banco inclinado (mancuerna/banco o maquina) - 4x12",
+        "Aperturas en banco inclinado - 3x12",
+        "Peck deck - 4x15",
+        "Press militar sentado - 4x12",
+        "Elevaciones laterales - 4x12",
+        "Elevaciones frontales - 4x12",
+        "Extensión de tríceps con cuerda - 3x12",
+        "Copa - 4x12",
+      ],
+      "Martes": [
+        "Hack squat - 4x12",
+        "Prensa inclinada - 4x12",
+        "Extensión de cuádriceps - 4x12",
+        "Zancadas con mancuernas - 4x12",
+        "Hip trust - 4x12",
+        "sentadilla sumo - 4x20",
+        "Elevaciones de talones sentado - 4x20",
+      ],
+      "Miercoles": [
+        "Jalón al pecho - 4x12",
+        "Remo bajo cerrado 4x12",
+        "Remo con mancuerna o hammer bajo - 4x12",
+        "Jalon en polea - 4x15",
+        "Curl de bíceps - 4x12",
+        "curl predicador - 4x15",
+        "curl martillo - 4x12",
+        "Crunch abdominal - 4x20",
+        "Plancha - 4x1 minuto",
+        "Crunch oblicuo - 3x20",
+      ],
+      "jueves": [
+        "Press militar sentado - 4x12",
+        "Elevaciones laterales - 4x12",
+        "Elevaciones frontales - 4x12",
+        "Face pull - 4x15",
+        "Trapecios - 4x20",
+        "Copa - 4x10",
+        "Extensión de tríceps con cuerda - 4x10",
+      ],
+      "Viernes": [
+        "Peso muerto con barra - 4x12",
+        "Sentadilla búlgara con peso (Mancuernas)",
+        "Hip trust - 4x12",
+        "Sentadilla sumo - 4x20",
+        "Curl femoral 4x12",
+        "Abducción de cadera en máquina 4x20"
+      ]
+    },
   
   
       //MUJERES RUTINA
@@ -1428,4 +1531,5 @@ async function generarRutina() {
   doc.text("Generado por JuanGoyeneche © 2025", 10, 285);
 
   doc.save(`Rutina_PowerGym_${nombre.replace(" ", "_")}.pdf`);
+
 }
